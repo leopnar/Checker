@@ -1,0 +1,10 @@
+cloudscraper
+bs4
+wget
+halo
+easygui
+pyyaml
+pysocks
+pypresence
+colorama
+Consolly
